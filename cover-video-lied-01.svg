@@ -10,7 +10,7 @@
    viewBox="0 0 1000 563"
    sodipodi:docname="cover-video-lied-01.svg"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
-   inkscape:export-filename="/home/heinrich/Development/klasse-wir-singen/theme/images/cover-video-kws.png"
+   inkscape:export-filename="/home/heinrich/Development/klasse-wir-singen/assets/cover-video-lied-01.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -909,9 +909,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.16681182"
-     inkscape:cx="404.64758"
-     inkscape:cy="1372.8044"
+     inkscape:zoom="0.94363015"
+     inkscape:cx="549.47375"
+     inkscape:cy="441.91042"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -1142,11 +1142,4 @@
        transform="translate(463.3479,1030.5811)" /><path
        d="m 375.00001,1555.3555 c 26.338,0 47.689,21.352 47.689,47.689 0,26.338 -21.351,47.69 -47.689,47.69 -26.338,0 -47.689,-21.352 -47.689,-47.69 0,-26.337 21.351,-47.689 47.689,-47.689 z"
        style="fill:#000000;fill-opacity:0.561607;stroke:none;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.998151"
-       id="path23822" /><g
-       id="g23824"
-       transform="matrix(0,0.6000061,0.8500061,0,346.65359,1830.9505)"><g
-         id="g23826"
-         transform="translate(-429.899,15.4836)"><path
-           d="M 0,0 H 104.387 L 51.958,52.613 Z M -0.47,0 V -0.476 L 0,0 Z"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path23828" /></g></g></g></svg>
+       id="path23822" /></g></svg>
