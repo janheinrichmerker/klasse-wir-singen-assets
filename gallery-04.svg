@@ -7,7 +7,7 @@
    viewBox="0 0 105.83333 79.375002"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
    sodipodi:docname="gallery-04.svg"
    inkscape:export-filename="/home/heinrich/Development/klasse-wir-singen/assets/gallery-04.png"
    inkscape:export-xdpi="192"
@@ -29,12 +29,12 @@
      showgrid="false"
      units="px"
      inkscape:zoom="1.0633188"
-     inkscape:cx="337.15194"
-     inkscape:cy="19.749486"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:cx="124.60985"
+     inkscape:cy="19.27926"
+     inkscape:window-width="1854"
+     inkscape:window-height="1016"
+     inkscape:window-x="66"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -435,16 +435,5 @@
        id="image42033"
        x="-1.5874991"
        y="-1.0658141e-14" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="2.4339597"
-       y="5.3261194"
-       id="text26195"><tspan
-         sodipodi:role="line"
-         id="tspan26193"
-         style="font-size:3.52778px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="2.4339597"
-         y="5.3261194">apunktadesign.de • dipl des anja albrecht</tspan></text>
   </g>
 </svg>
