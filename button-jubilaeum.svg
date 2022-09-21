@@ -2,21 +2,35 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="400"
    height="400"
    viewBox="0 0 105.83333 105.83334"
    version="1.1"
    id="svg20080"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="button-jubilaeum.svg"
-   inkscape:export-filename="/home/heinrich/Development/klasse-wir-singen/assets/button-jubilaeum.png"
+   inkscape:export-filename="/home/heinrich/Repositories/klasse-wir-singen-assets/button-jubilaeum.png"
    inkscape:export-xdpi="72"
-   inkscape:export-ydpi="72"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:export-ydpi="72">
+  <metadata
+     id="metadata2845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview20082"
      pagecolor="#ffffff"
@@ -29,14 +43,14 @@
      showgrid="false"
      units="px"
      inkscape:zoom="0.75187991"
-     inkscape:cx="238.73493"
-     inkscape:cy="199.49994"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:cx="-62.102591"
+     inkscape:cy="274.07424"
+     inkscape:window-width="1854"
+     inkscape:window-height="1136"
+     inkscape:window-x="66"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g3227" />
   <defs
      id="defs20077">
     <linearGradient
@@ -12174,37 +12188,46 @@
       <text
          transform="matrix(0,1,1,0,342.0229,1103.7745)"
          style="font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.5851px;font-family:'Arial Black';-inkscape-font-specification:Arial-Black;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text4728"><tspan
+         id="text4728">
+        <tspan
            x="0"
            y="0"
-           id="tspan4726">a</tspan></text>
+           id="tspan4726">a</tspan>
+      </text>
       <text
          transform="matrix(0,1,0.95236957,0,342.0229,1106.3604)"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7644px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text4732"><tspan
+         id="text4732">
+        <tspan
            x="0 2.2473469 4.4946938 6.7420406 8.7785807"
            y="0"
            sodipodi:role="line"
-           id="tspan4730">punkt</tspan></text>
+           id="tspan4730">punkt</tspan>
+      </text>
       <text
          transform="matrix(0,1,1,0,342.0229,1116.3414)"
          style="font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.5851px;font-family:'Arial Black';-inkscape-font-specification:Arial-Black;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text4736"><tspan
+         id="text4736">
+        <tspan
            x="0"
            y="0"
-           id="tspan4734">a</tspan></text>
+           id="tspan4734">a</tspan>
+      </text>
       <text
          transform="matrix(0,1,1,0,345.5323,1103.7745)"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.9245px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text4742"><tspan
+         id="text4742">
+        <tspan
            x="0 2.8601611 5.5594745 8.2587881 9.8204708 12.844404"
            y="0"
            sodipodi:role="line"
-           id="tspan4738">DESIGN</tspan><tspan
+           id="tspan4738">DESIGN</tspan>
+        <tspan
            x="18.77529 21.451208"
            y="-0.0204715"
            sodipodi:role="line"
-           id="tspan4740">DE</tspan></text>
+           id="tspan4740">DE</tspan>
+      </text>
       <g
          id="g4744">
         <g
@@ -12223,11 +12246,35 @@
       <text
          transform="matrix(0,0.94997435,1,0,345.5278,1130.1223)"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.9245px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text4758"><tspan
+         id="text4758">
+        <tspan
            x="0 2.257714 3.2169499 5.3138165 6.9778571 8.3757677 10.633482 12.730349 14.827215 16.064278 18.161144 20.418859 22.027334 23.963352 25.200417 27.297283 29.06953 31.166397 33.42411 35.520977 37.77869 40.036404"
            y="0"
            sodipodi:role="line"
-           id="tspan4756">DIPL DES ANJA ALBRECHT</tspan></text>
+           id="tspan4756">DIPL DES ANJA ALBRECHT</tspan>
+      </text>
+    </g>
+    <g
+       id="g3227"
+       transform="rotate(45,-165.95429,145.17246)">
+      <rect
+         y="-30.350317"
+         x="-108.03198"
+         height="13.723933"
+         width="64.045021"
+         id="rect3217"
+         style="fill:#004576;fill-opacity:1;stroke-width:0.26458332" />
+      <text
+         id="text3221"
+         y="-19.696873"
+         x="-88.939651"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0.81756252px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:1.32291663px;fill:#ffffff;stroke-width:0.26458332"
+           y="-19.696873"
+           x="-88.939651"
+           id="tspan3219"
+           sodipodi:role="line">2021</tspan></text>
     </g>
   </g>
 </svg>
